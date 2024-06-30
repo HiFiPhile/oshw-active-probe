@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Probe.GBR   30/06/2024  22:16:41
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top                                     
+.G1                 IN1 (GND)                               
+.G2                 IN2                                     
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Solder         
+.GBP                Bottom Paste                            
+.GBO                Board Layer Stack Bottom Overlay        
+.GM1                Mechanical 1                            
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
